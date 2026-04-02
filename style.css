@@ -62,7 +62,7 @@ a:hover {
 
 .list-inline {
 	list-style: none;
-	padding-left: Opx;
+	padding-left: 0;
 }
 
 .list-inline li {
@@ -75,7 +75,7 @@ a:hover {
 	color: rgb(230, 230, 230);
 }
 
-.list-inline i:hover{
+.list-inline i:hover {
 	font-size: 50px ;
 	color: rgb(230, 230, 230);
 }
@@ -83,19 +83,3 @@ a:hover {
 #introduction p {
 	margin-bottom: 40px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
